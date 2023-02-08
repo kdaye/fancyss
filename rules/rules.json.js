@@ -16,8 +16,8 @@
   },
   "chnroute2": {
     "name": "chnroute2.txt",
-    "date": "2023-02-08 5:02",
-    "md5": "129cb57658181d8948ace37f35bbca68",
+    "date": "2023-02-08 23:02",
+    "md5": "3e061a45d80c093a436caa75a29ea277",
     "count": "47288",
     "count_ip": "141484234",
     "source": "ipip",
